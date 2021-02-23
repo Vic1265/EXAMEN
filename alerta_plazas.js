@@ -1,0 +1,1 @@
+var proceed=confirm("¡Todavia quedan places!, ¿t'agradaria correr amb llegendes de youtube com Luisito Comunica o el tan conegut Rubius?")
